@@ -35,3 +35,8 @@ let vat = 15;
 let productPrice = --vat;
 let productPrice2 = vat--;
 console.log(vat, productPrice, productPrice2);
+
+// Exponentiation
+let number = 10;
+console.log(number ** 2);
+console.log(number ** 3);
